@@ -1,0 +1,52 @@
+#textbox
+{
+    width: 300px;
+}
+#camera
+{
+    height:300px;
+    width:300px;
+    border-color:white;
+    border: 50px;
+    border-style:groove;
+}
+#dev{
+    text-align: center;   
+}
+#page{
+    background-color: palevioletred;
+}
+#collage{
+    font-style: italic;
+    font-weight: 200;
+}
+#whattodo{
+    font-weight: bolder;
+}
+#result1{
+    border-radius: 50px;
+    border:10px;
+    border-style: solid;
+    border-color: white;
+}
+#result2{
+    border-radius: 50px;
+    border:10px;
+    border-style: solid;
+    border-color: white;
+}
+#result3{
+    border-radius: 50px;
+    border:10px;
+    border-style: solid;
+    border-color: white;
+}
+#hi:hover{
+    border-radius:75px;
+}
+#hi2:hover{
+    border-radius: 75px;
+}
+#hi3:hover{
+    border-radius: 75px;
+}
